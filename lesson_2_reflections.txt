@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory is the directory which contains the loacl git repository. 
+A repository keep tracks changes of the files which are added to the repository in the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+At any given point of time I can compare the staging area with the last commit and make sure the logical changes are to be commited in the repo.
